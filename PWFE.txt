@@ -10,3 +10,8 @@ https://br.freepik.com/vetores-gratis/conceito-de-interface-de-aplicativo-bancar
 
 Cores:
 https://brasil.uxdesign.cc/os-9-sites-de-paletas-de-cores-que-todo-ui-designer-precisa-conhecer-3742480ef761
+
+Estudar:
+
+HTML Collection
+NodeList
