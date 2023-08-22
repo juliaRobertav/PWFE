@@ -15,3 +15,7 @@ Estudar:
 
 HTML Collection
 NodeList
+
+Vite:
+
+https://vitejs.dev/guide/
