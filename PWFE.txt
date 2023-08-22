@@ -19,3 +19,7 @@ NodeList
 Vite:
 
 https://vitejs.dev/guide/
+
+React:
+
+https://react.dev/
