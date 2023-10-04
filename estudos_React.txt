@@ -1,3 +1,0 @@
-dependências - bibliotecas que instala no projeto para poder funcionar, que trazem funções e recursos para o funcionamento
-
-componentes que vamos construir se coloca no App.js(componente principal que vai ser renderizado na tela, chama os outros componentes)
